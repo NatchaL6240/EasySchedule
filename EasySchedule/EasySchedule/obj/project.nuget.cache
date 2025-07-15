@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yg1/ZDiqNMs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus Tuf F15\\Desktop\\Visual\\Visual Studio\\Uni\\EasySchedule\\EasySchedule\\EasySchedule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus Tuf F15\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Asus Tuf F15\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
